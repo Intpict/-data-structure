@@ -1,22 +1,64 @@
-# Compiled class file
-*.class
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-# Log file
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Visual Studio Sys Files
+*.suo
+*.ipch
 *.log
+*.aps
+*.sdf
+*.ncb
+*.sln
+*.vcproj
+*.vcproj.COMPUTERA.Administrator.user
+*.vcproj.Linsen-PC.Administrator.user
+*.vcxproj.filters
+*.vcxproj.user
 
-# BlueJ files
-*.ctxt
+# =========================
+# Operating System Files
+# =========================
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# OSX
+# =========================
 
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+.idea
+*.iml
+*.class
